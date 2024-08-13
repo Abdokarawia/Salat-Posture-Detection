@@ -1,4 +1,4 @@
-# 🌟 SalatPose: AI-Powered Salat Posture Recognition System 🌟
+# SalatPose: AI-Powered Salat Posture Recognition System 🕌🙏
 
 **SalatPose** is an innovative AI-powered system that accurately detects and recognizes critical postures in the Islamic prayer ritual (Salat). Leveraging advanced deep learning algorithms and computer vision techniques, the system identifies essential Salat postures such as **Ruku (bowing)**, **Raising**, and **Takbeer (standing)**, ensuring that users can perform their prayers precisely and confidently.
 
@@ -32,9 +32,4 @@ SalatPose aims to blend technology with cultural heritage, creating meaningful i
 - **Community Centers**: These are useful for group learning sessions in community centres.
 
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
-🌟 **SalatPose**: Bringing technology and tradition together to enhance your Salat experience.
-```
