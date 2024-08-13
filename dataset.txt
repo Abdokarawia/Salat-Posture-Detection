@@ -1,0 +1,6 @@
+# Salat Postures > 2024-03-19 7:12am
+https://universe.roboflow.com/ifram/salat-postures
+
+Provided by a Roboflow user
+License: CC BY 4.0
+
